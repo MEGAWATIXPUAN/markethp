@@ -1,5 +1,8 @@
 import Google from 'next-auth/providers/google';
 import type { NextAuthConfig } from 'next-auth';
+import dotenv from 'dotenv';
+
+dotenv.config({ path: '.env.local' });
 
 export const config = {
   providers: [

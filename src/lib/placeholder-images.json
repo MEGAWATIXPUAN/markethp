@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "pixel-8-pro",
+      "description": "A sleek black smartphone, front view.",
+      "imageUrl": "https://images.unsplash.com/photo-1754928200295-b21de7a40521?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzbWFydHBob25lJTIwZnJvbnR8ZW58MHx8fHwxNzY0Njc5NjEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartphone front"
+    },
+    {
+      "id": "iphone-15-pro",
+      "description": "A titanium-colored smartphone showing its camera array.",
+      "imageUrl": "https://images.unsplash.com/photo-1554495498-b2d057960af4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzbWFydHBob25lJTIwY2FtZXJhfGVufDB8fHx8MTc2NDcxMTQzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartphone camera"
+    },
+    {
+      "id": "galaxy-s24-ultra",
+      "description": "A modern smartphone with a stylus pen next to it.",
+      "imageUrl": "https://images.unsplash.com/photo-1764663908283-46824d5e93af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzbWFydHBob25lJTIwc3R5bHVzfGVufDB8fHx8MTc2NDcyNjk4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartphone stylus"
+    },
+    {
+      "id": "oneplus-12",
+      "description": "A green smartphone with a distinctive circular camera bump.",
+      "imageUrl": "https://images.unsplash.com/photo-1569422586959-a95e5b2b934a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzbWFydHBob25lJTIwZ3JlZW58ZW58MHx8fHwxNzY0NzI2OTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartphone green"
+    },
+    {
+      "id": "xperia-1-v",
+      "description": "A tall and narrow black smartphone, emphasizing its cinematic display.",
+      "imageUrl": "https://images.unsplash.com/photo-1760820710188-aa049318d288?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0YWxsJTIwc21hcnRwaG9uZXxlbnwwfHx8fDE3NjQ3MjY5ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tall smartphone"
+    },
+    {
+      "id": "nothing-phone-2",
+      "description": "A transparent-back smartphone with glowing light strips.",
+      "imageUrl": "https://images.unsplash.com/photo-1599913669689-998a498c4386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0cmFuc3BhcmVudCUyMHBob25lfGVufDB8fHx8MTc2NDcyNjk4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "transparent phone"
+    },
+    {
+      "id": "galaxy-z-fold-5",
+      "description": "An open foldable smartphone displaying two apps side-by-side.",
+      "imageUrl": "https://images.unsplash.com/photo-1671097027085-77ebeb8f67d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb2xkYWJsZSUyMHBob25lfGVufDB8fHx8MTc2NDcyNjk4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "foldable phone"
+    },
+    {
+      "id": "asus-rog-8",
+      "description": "A gaming smartphone with aggressive design and RGB lighting.",
+      "imageUrl": "https://images.unsplash.com/photo-1732020883994-0dbe997c1662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxnYW1pbmclMjBwaG9uZXxlbnwwfHx8fDE3NjQ3MDA3MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gaming phone"
+    }
+  ]
 }

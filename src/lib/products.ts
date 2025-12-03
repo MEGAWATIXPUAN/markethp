@@ -1,5 +1,5 @@
 import type { Product } from './types';
-import { PlaceHolderImages } from './placeholder-images';
+import PlaceHolderImages from './placeholder-images.json';
 
 const products: Product[] = [
   {

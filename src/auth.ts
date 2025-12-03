@@ -31,6 +31,7 @@ export const config = {
   session: {
     strategy: 'jwt',
   },
+  secret: process.env.AUTH_SECRET,
 } satisfies NextAuthConfig
 
 export const { handlers, auth, signIn, signOut } = NextAuth(config)
